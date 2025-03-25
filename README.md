@@ -27,7 +27,7 @@ One fully connected dense layer with 128 neurons and ReLU activation.
 A dropout layer with a rate of 0.5 to prevent overfitting.
 Output Layer: A dense layer with 4 neurons (corresponding to the 4 tumor categories) and softmax activation.
 
-Test Accuracy: 72% (example result, update with your actual result)
+Test Accuracy: 88% (example result, update with your actual result)
 Confusion Matrix:
 The confusion matrix shows how well the model predicted each class.
 
